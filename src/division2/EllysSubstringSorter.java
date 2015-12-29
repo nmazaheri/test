@@ -10,13 +10,11 @@ import java.util.Arrays;
 public class EllysSubstringSorter {
     public static void main(String args[]) {
         EllysSubstringSorter sorter = new EllysSubstringSorter();
-
         System.out.println(sorter.getMin("TOPCODER", 4));
         System.out.println(sorter.getMin("ESPRIT", 3));
         System.out.println(sorter.getMin("ABRACADABRA", 5));
         System.out.println(sorter.getMin("BAZINGA", 6));
         System.out.println(sorter.getMin("AAAWDIUAOIWDESBEAIWODJAWDBPOAWDUISAWDOOPAWD", 21));
-
     }
 
     public String getMin(String S, int L) {
