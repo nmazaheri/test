@@ -1,4 +1,4 @@
-package division2;
+package topcoder.division2;
 
 import java.util.HashMap;
 
