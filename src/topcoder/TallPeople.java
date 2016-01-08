@@ -1,4 +1,4 @@
-package topcoder.division2;
+package topcoder;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package topcoder.division2;
+package topcoder;
 
 /**
  * Created by navid.mazaheri on 12/28/15.
