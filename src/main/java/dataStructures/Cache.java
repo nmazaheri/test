@@ -1,4 +1,4 @@
-package com.takeaway.scraper.model.stage;
+package dataStructures;
 
 import java.util.HashMap;
 import java.util.Map;
